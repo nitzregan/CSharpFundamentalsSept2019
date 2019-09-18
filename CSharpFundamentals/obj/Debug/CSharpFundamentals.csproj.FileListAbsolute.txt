@@ -1,0 +1,7 @@
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
