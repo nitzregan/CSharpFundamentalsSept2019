@@ -1,0 +1,6 @@
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\05_Classes\bin\Debug\05_Classes.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\05_Classes\bin\Debug\05_Classes.pdb
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.csprojAssemblyReference.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.csproj.CoreCompileInputs.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.pdb

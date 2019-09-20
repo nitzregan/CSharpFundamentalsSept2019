@@ -1,0 +1,16 @@
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\06_CalculatorRepostitoryTests.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\06_CalculatorRepostitoryTests.pdb
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\06_CalculatorRepository.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\06_CalculatorRepository.pdb
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\obj\Debug\06_CalculatorRepostitoryTests.csprojAssemblyReference.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\obj\Debug\06_CalculatorRepostitoryTests.csproj.CoreCompileInputs.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\obj\Debug\06_CalculatorRepostitoryTests.csproj.CopyComplete
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\obj\Debug\06_CalculatorRepostitoryTests.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepostitoryTests\obj\Debug\06_CalculatorRepostitoryTests.pdb

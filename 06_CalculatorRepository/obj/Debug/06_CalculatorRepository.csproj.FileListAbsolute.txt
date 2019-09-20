@@ -1,0 +1,6 @@
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepository\bin\Debug\06_CalculatorRepository.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepository\bin\Debug\06_CalculatorRepository.pdb
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepository\obj\Debug\06_CalculatorRepository.csprojAssemblyReference.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepository\obj\Debug\06_CalculatorRepository.csproj.CoreCompileInputs.cache
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepository\obj\Debug\06_CalculatorRepository.dll
+C:\Users\regan\Desktop\.Net\Gold Badge\Fundamentals\CSharpFundamentals\06_CalculatorRepository\obj\Debug\06_CalculatorRepository.pdb

@@ -4,10 +4,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace _04_Methods
 {
     [TestClass]
-    public class UnitTest1
+    public class Methods
     {
         [TestMethod]
-        public void Methods()
+        public void MethodsExamples()
         {
             // + = - /  *  %
 
